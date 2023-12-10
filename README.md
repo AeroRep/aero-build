@@ -1,2 +1,2 @@
 # aero-build
-builder
+- run 'sudo ./steps.sh' to build desktop env
